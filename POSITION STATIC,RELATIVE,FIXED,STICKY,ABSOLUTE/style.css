@@ -1,0 +1,125 @@
+.saiyans{
+    width: 300px;
+    height: 400px;
+}
+#gokuPic{
+    position: relative;
+    z-index: 25;
+}
+#gohanPic{
+    position: relative;
+    left: 200px;
+    z-index: 24;
+}
+#vegetaPic{
+    position: relative;
+    right: 220px;
+    z-index: 23;
+}
+#trunksPic{
+    position: relative;
+   bottom: 410px;
+   left: 800px;
+
+   
+    z-index: 22;
+}
+#brolyPic{
+    position: relative;
+    left: 450px;
+    z-index: 23;
+}
+#dragonball{
+    width: 300px;
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    z-index: 30;
+}
+#characters{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    font-size: 3rem;
+    position: sticky;
+    top: 20px;
+    z-index: 29;
+}
+#dragonballDiv{
+    width: 600px;
+    height: 600px;
+    border: 20px solid yellow;
+    text-align: center;
+    padding: 350px; 
+    position: relative;
+    background-color: royalblue;
+}
+
+#dragonPic{
+    width: 500px;
+    height: 500px;   
+}
+#zDiv{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border: 10px solid orangered;
+    overflow: auto;
+    padding: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: aqua;
+}
+#zPic{
+    width: 300px;
+    height: 300px;
+}
+#superDiv{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border: 10px solid orangered;
+    overflow: auto;
+    padding: 50px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: lightsalmon;
+}
+#superPic{
+    width: 300px;
+    height: 300px;
+}
+#superheroDiv{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border: 10px solid orangered;
+    overflow: auto;
+    padding: 50px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: lightseagreen;
+}
+#superheroPic{
+    width: 300px;
+    height: 300px;
+}
+#sparkingDiv{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border: 10px solid orangered;
+    overflow: auto;
+    padding: 50px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: lightblue;
+}
+#sparkingPic{
+    width: 300px;
+    height: 300px;
+}
